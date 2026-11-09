@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+*_analysis/
+*_check/
+*_design/
+.build_walls.json
+.DS_Store
